@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Devlvin @DevComputing
+- 👋 Hi, I’m Devlvin @Devcomputing
 - 👀 I’m interested in malware analysis 
 - 🌱 I’m currently learning malware analysis techniques
 - 💞️ I’m looking to collaborate on development programs and cybersecurity projects.
